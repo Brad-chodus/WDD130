@@ -80,8 +80,7 @@ article {
 }
 
 .hero article {
-    position: relative;
-    bottom: 10px;
+    position: absolute;
     width: 100%;
     padding: 16px;
     text-align: center;
